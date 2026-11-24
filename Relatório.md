@@ -270,7 +270,7 @@ Outra melhoria seria separar um conjunto de validação próprio, deixando os da
 
 
 - **Fonte do dataset:** link de onde foram obtidos os arquivos CSV.
-- **Quantidade de registros:** total de Pokémon utilizados.
-- **Acurácia:** valor obtido após executar o treinamento.
+- **Quantidade de registros:** 1025.
+- **Acurácia:** 0.94.
 - **Matriz de confusão:** resultado gerado pelo modelo.
 
