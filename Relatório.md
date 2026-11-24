@@ -265,12 +265,17 @@ Outra melhoria seria separar um conjunto de validação próprio, deixando os da
 
 
 
-## Informações para Completar
+## Informações Complementar
 
 
 
 - **Fonte do dataset:** link de onde foram obtidos os arquivos CSV.
 - **Quantidade de registros:** 1025.
-- **Acurácia:** 0.94.
-- **Matriz de confusão:** resultado gerado pelo modelo.
+- **Acurácia:** 0.9435215946843853.
+- **Matriz de confusão:**    
+
+> | 67 | 2 | 2 |
+> |:---:|:---:|:---:|
+> | 3 | 110 | 4 |
+> | 4 | 2 | 107 |
 
